@@ -1,0 +1,67 @@
+ #dougie {
+  text-align: center;
+  position: absolute;
+  width: 900px;
+  height: 200px;
+  z-index: 15;
+  top: 20%;
+  left: 20%;
+  margin: -100px 0 0 -150px;
+}
+
+/* input {
+  font-size: 20px;
+}
+
+button {
+  font-size: 24px;
+  border-radius: 10%;
+}
+
+#queens {
+  background-color: orange;
+  color: blue;
+}
+
+#brooklyn {
+  background-color: black;
+  color: white;
+}
+
+#manhattan {
+  background-color: blue;
+  color: white;
+}
+
+#bronx {
+  background-color: navy;
+  color: white;
+}
+
+#statenIsland {
+  background-color: green;
+  color: yellow;
+}
+
+#dougie {
+  margin-left: 80%;
+}
+
+ul {
+  font-size: 20px;
+  text-align: left;
+  margin-left: 15%;
+  list-style: none;
+}
+
+img {
+  margin-top: 10px;
+  width: 20px;
+  height: 20px;
+}
+
+#moreInfo {
+  display: inline;
+  background-color: red;
+  font-size: 10px;
+}  */
